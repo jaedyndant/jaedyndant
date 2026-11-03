@@ -33,14 +33,8 @@ first, code second. Front to back: design, animation, backend, deploy.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaedyndant&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaedyndant&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&langs_count=8" width="34%" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaedyndant&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" width="60%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaedyndant&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaedyndant&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&langs_count=8" width="34%" alt="Top Languages"/>
 
 </div>
 
