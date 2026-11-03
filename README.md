@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full+stack+web+developer;Design-first%2C+code-second;React+%2B+GSAP+%2B+Next.js;Based+in+the+Netherlands" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/jaedyndant/jaedyndant/master/banner.svg" alt="Jaedyn Dant" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Shipping+bespoke+sites+for+restaurants%2C+law+firms%2C+car+rental;Concept+before+pixels.+Every+site+starts+as+one+sentence." alt="Typing SVG" />
 
 </div>
 
